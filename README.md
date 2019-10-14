@@ -1,4 +1,4 @@
-## Udacity's Machine Leraning Introduction Nanodegree: Create Your Own Classifier
+## Udacity's Machine Learning Introduction Nanodegree: Create Your Own Classifier
 
 ### Project Overview
 
